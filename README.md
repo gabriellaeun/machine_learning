@@ -1,4 +1,4 @@
-# machine_learning
+# Machine Learning
 
 Learning TensorFlow를 공부하며 정리한 것이다.
 
